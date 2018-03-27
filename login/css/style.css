@@ -1,0 +1,114 @@
+.gray{
+	background-color:#f1f1f1;
+	border-bottom: 1px solid #e5e5e5;
+	padding:20px;
+	overflow: hidden;
+	padding-top:10px !important
+	
+}
+.logo
+{
+	width:210px;
+	height:50px;
+}
+.button
+{
+	
+	border: 1px solid #3079ed;
+    color: #fff;
+    text-shadow: 0 1px rgba(0,0,0,0.1);
+    background-color: #4d90fe;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#4787ed));
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed)
+}
+.heading
+{
+	text-align:center;
+	padding-top:30px;
+	font-size:30px;
+	font-weight: normal;
+}
+.heading1
+{
+	text-align:center;
+	padding-top:40px;
+	font-size:20px;
+	font-weight: normal;
+}
+.heading2
+{
+	text-align:center;
+	padding-top:5px;
+	font-size:15px;
+	font-weight: normal;
+}
+.img
+{
+	margin-left:10px;
+	height:50px;
+	width:50px;
+	margin-top:30px;
+}
+.img2
+{
+	margin-left:10px;
+	height:45px;
+	width:45px;
+	margin-top:35px;
+}
+.con2
+{
+	width:80%;
+	background-color:#f1f1f1;
+	border-bottom: 1px solid #e5e5e5;
+	margin-top:20px;
+	padding-top:20px;
+	margin-left:10%;
+}
+.col-md-6 phone
+{
+	 width: 140%
+}
+
+
+ 
+{
+  #phone
+  { 
+        width: 140% !important
+    }
+}
+.text
+{
+	
+	padding:25px;
+	
+}
+.country-list dropup
+{
+	width: 440px;
+}
+
+
+.head2
+{
+	padding-top:10px;
+}
+.text3
+{
+	margin-right:10px;
+}
+.text2
+{
+	margin-left:10px;
+}
+.signuponepage .form-element .atgmail {
+    position: absolute;
+    top: 27px;
+    right: 10px;
+    color: #999;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    direction: ltr;
+}
